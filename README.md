@@ -84,10 +84,13 @@ Juego multijugador local por LAN con comunicación en tiempo real. **Tecnología
 
 ## Actividad en GitHub
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ManuelHuertaE&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Estadísticas de GitHub de José Manuel">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelHuertaE&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Lenguajes más usados en los repositorios públicos">
+<p align="center">
+  <a href="https://github.com/ManuelHuertaE">
+    <img src="https://img.shields.io/badge/GitHub-Visita_mi_perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visita el perfil de GitHub de José Manuel">
+  </a>
 </p>
+
+Puedes ver mis repositorios, contribuciones y actividad directamente en mi <a href="https://github.com/ManuelHuertaE">perfil de GitHub</a>.
 
 ---
 
