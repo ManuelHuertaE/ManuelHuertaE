@@ -58,39 +58,59 @@
 
 ## Proyectos destacados
 
-### Plataforma empresarial de gestión de avalúos
-
-Plataforma para gestionar avalúos inmobiliarios, documentos y módulos financieros. Participé en backend y frontend. **Tecnologías:** Next.js, PostgreSQL y Electron.
-
 ### Encuentro Nacional de Innovación Agroalimentaria 2025
 
-Plataforma institucional para el registro, clasificación y evaluación de proyectos, con asignación de evaluadores. **Tecnologías:** React, Next.js, NestJS y MongoDB.
+Plataforma institucional para la Secretaría de Agricultura, desarrollada por un equipo de cuatro personas y reconocida a nivel nacional.
+
+- Desarrollé los flujos para registrar, validar, clasificar y evaluar proyectos, con etapas estatal y nacional y asignación automática de evaluadores.
+- Implementé acceso basado en roles y notificaciones por correo; diseñé una API REST modular y documentada con Swagger.
+- **Tecnologías:** React, Next.js, NestJS y MongoDB.
+
+### Primer Congreso Internacional de Innovación Tecnológica Aplicada
+
+Desarrollé la página informativa y el sistema de gestión integral del congreso.
+
+- Implementé registro de usuarios, envío de contribuciones con archivos y gestión de revisores; construí el flujo de revisión y aprobación final por administradores.
+- Desarrollé los módulos de asistentes y visitas industriales: los administradores publican los datos de depósito, los asistentes cargan sus comprobantes y el sistema registra la asistencia y genera automáticamente archivos PDF por participante.
+- Desplegué la aplicación en contenedores Docker sobre un servidor privado. **Tecnologías:** NestJS, React, MongoDB y Docker.
+- **Resultados:** más de 700 usuarios registrados, más de 100 contribuciones recibidas en tres categorías, más de 80 revisores y 524 registros de asistentes.
+
+### Sistema empresarial de gestión de avalúos
+
+Participé en el desarrollo full stack de una plataforma para administrar avalúos inmobiliarios, documentación y módulos financieros.
+
+- Implementé flujos de avalúos y APIs REST con autenticación JWT y control de acceso basado en roles.
+- Desarrollé un sistema de asistencia biométrica con validación por GPS e integré WhatsApp Business API, tableros analíticos y reportes.
+- **Tecnologías:** Next.js, PostgreSQL y Electron.
 
 ### Sistema de fidelización de clientes
 
-Aplicación de puntos para pequeños negocios. **Tecnologías:** NestJS, Prisma, PostgreSQL, Docker y Expo.
+Sistema móvil de puntos para pequeños negocios. Expo da acceso a la aplicación móvil; NestJS implementa el backend, Prisma conecta los servicios con PostgreSQL y Docker empaqueta los componentes. **Tecnologías:** NestJS, Prisma, PostgreSQL, Docker y Expo.
 
 ### Sistema de gestión de pedidos
 
-Aplicación para administrar ventas, productos, clientes y detalles de venta. **Tecnologías:** React, Express y Supabase.
-
-### Aplicación de gestión nutricional
-
-Sistema para administrar pacientes e información nutricional, con funciones de búsqueda y migración de datos.
+Aplicación web que centraliza ventas, productos, clientes y detalles de pedidos. React presenta los flujos de administración, Express implementa el backend y Supabase proporciona los servicios de datos. **Tecnologías:** React, Express y Supabase.
 
 ### UNO Privado
 
-Juego multijugador local por LAN con comunicación en tiempo real. **Tecnologías:** Electron, React, TypeScript, Express y Socket.IO.
+Juego de cartas multijugador local por LAN con comunicación en tiempo real. Combina una interfaz de escritorio en Electron y React con Express y Socket.IO para la comunicación entre jugadores. **Tecnologías:** Electron, React, TypeScript, Express y Socket.IO.
 
 ## Actividad en GitHub
 
 <p align="center">
-  <a href="https://github.com/ManuelHuertaE">
-    <img src="https://img.shields.io/badge/GitHub-Visita_mi_perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visita el perfil de GitHub de José Manuel">
-  </a>
+  <img height="180"
+    src="https://github-stats-extended.vercel.app/api?username=ManuelHuertaE&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="GitHub Stats">
+  <img height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ManuelHuertaE&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages">
 </p>
 
-Puedes ver mis repositorios, contribuciones y actividad directamente en mi <a href="https://github.com/ManuelHuertaE">perfil de GitHub</a>.
+<p align="center">
+  <a href="https://github.com/ManuelHuertaE">
+    <img src="https://img.shields.io/badge/GitHub-Visita_mi_perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 ---
 
