@@ -83,9 +83,13 @@ Participé en el desarrollo full stack de una plataforma para administrar avalú
 - Desarrollé un sistema de asistencia biométrica con validación por GPS e integré WhatsApp Business API, tableros analíticos y reportes.
 - **Tecnologías:** Next.js, PostgreSQL y Electron.
 
-### Sistema de fidelización de clientes
+### SPPT · Sistema de Puntos Para Tiendas
 
-Sistema móvil de puntos para pequeños negocios. Expo da acceso a la aplicación móvil; NestJS implementa el backend, Prisma conecta los servicios con PostgreSQL y Docker empaqueta los componentes. **Tecnologías:** NestJS, Prisma, PostgreSQL, Docker y Expo.
+Sistema de fidelización para pequeños comercios, con una aplicación móvil y un dashboard administrativo.
+
+- Implementé control de acceso por roles para separar las funciones de propietarios, copropietarios y empleados.
+- El dashboard permite registrar productos y ventas, y consultar los clientes registrados.
+- **Tecnologías:** NestJS, Prisma, PostgreSQL, Docker y Expo.
 
 ### Sistema de gestión de pedidos
 
