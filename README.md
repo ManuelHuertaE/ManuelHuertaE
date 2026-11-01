@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Colima%2C_Mexico-2563EB?style=flat&logo=googlemaps&logoColor=white" alt="Ubicación: Colima, México">
-  <img src="https://img.shields.io/badge/English-B1--B2-2563EB?style=flat" alt="Inglés B1–B2">
+  <img src="https://img.shields.io/badge/English-B1--B2-2563EB?style=flat" alt="Inglés B1">
 </p>
 
 ## Stack principal
